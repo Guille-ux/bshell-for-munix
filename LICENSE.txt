@@ -1,0 +1,2 @@
+bshell-for-munix is distributed under the terms of the MIT License (see more at [MIT License](https://mit-license.org)).
+Guillermo Leira Temes <guillermoleiratemes@protonmail.com> Copyright 2025 bshell-for-munix.
